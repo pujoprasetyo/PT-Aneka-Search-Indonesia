@@ -22,7 +22,7 @@ gambaran flowchart untuk pseudocode pertama
 2. Hitung luas selimut dengan menggunakan rumus 2*phi*r*t
 3. Tampilkan nilai hasil perkalian
 
---
+---
 
 ## III. Pseudocode untuk menghitung bilangan fibonacci
 1. Tampilkan pesan untuk memasukkan nilai n atau jumlah bilangan fibonacci yang diinginkan
