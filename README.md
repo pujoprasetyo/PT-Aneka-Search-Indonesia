@@ -8,5 +8,5 @@
 
 
 ---
-## 2. Pseudocode untuk menghitung luas selimut tabung
+## - Pseudocode untuk menghitung luas selimut tabung
 ## 3. Pseudocode untuk menghitung bilangan fibonacci
