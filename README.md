@@ -1,12 +1,18 @@
 # Technical Test PT Aneka Search Indonesia
 ---
-## 1. Pseudocode untuk mengayuh sepeda
-- Ambil sepeda
-- Naiki sepeda
-- Kayuh menggunakan kedua kaki secara bergantian
-- Jika sudah sampai di tujuan berhenti, jika tidak terus kayuh
+## I. Pseudocode untuk mengayuh sepeda
+1. Ambil sepeda
+2. Naiki sepeda
+3. Kayuh menggunakan kedua kaki secara bergantian
+4. Jika sudah sampai di tujuan berhenti, jika tidak terus kayuh
+5. Simpan sepeda
 
-
+gambaran flowchart untuk pseudocode pertama
+![flowchart](./img/flowchart1.png)
 ---
-## - Pseudocode untuk menghitung luas selimut tabung
-## 3. Pseudocode untuk menghitung bilangan fibonacci
+## II. Pseudocode untuk menghitung luas selimut tabung
+1. Masukkan
+
+--
+
+## III. Pseudocode untuk menghitung bilangan fibonacci
