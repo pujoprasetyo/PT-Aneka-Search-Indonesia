@@ -8,7 +8,7 @@
 5. Simpan sepeda
 
 gambaran flowchart untuk pseudocode pertama
-![flowchart](./img/flowchart1.png)
+![flowchart](./img/flowchart1.PNG)
 ---
 ## II. Pseudocode untuk menghitung luas selimut tabung
 1. Masukkan
