@@ -27,7 +27,7 @@ gambaran flowchart untuk pseudocode pertama
 ## III. Pseudocode untuk menghitung bilangan fibonacci
 1. Tampilkan pesan untuk memasukkan nilai n atau jumlah bilangan fibonacci yang diinginkan
 2. User memasukkan nilai n
-3. Sistem menampilkan pesan jumlah inputan user (n) yang berarti jumlah bilangan fibonacci yang ditampilkan
+3. Sistem menampilkan pesan "Deret Fibonacci hingga 'n' adalah:"
 4. Sistem melakukan perulangan untuk memanggil fungsi fibonacci sebanyak n-kali
 5. Sistem menghitung bilangan fibonacci dengan menambahkan nilai bilangan dengan nilai bilangan sebelumnya
 6. Menampilkan seluruh bilangan fibonacci hingga n-kali
